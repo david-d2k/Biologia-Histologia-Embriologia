@@ -7,7 +7,7 @@
 # 
 # Resumo da Aula 1 - Organização dos seres vivos
 #
-![Organizacao seres vivos](https://s3-sa-east-1.amazonaws.com/manual-do-enem-test/9833df6f22ce4204b026a79ed2337c74-organiza%C3%A7%C3%B5%20dos%20seres%203.png)
+![Organizacao seres vivos](https://i.pinimg.com/564x/fc/c2/8a/fcc28a736b84f42b3347f5d1ca2802ad.jpg)
 
 
 
@@ -92,6 +92,9 @@ São moléculas formadas por bases nitrogenadas, fosfato e pentoses.
 
 #### 2 - Ácido ribonucleico - RNA
 Macromolécula essencial para várias funções biológicas. Como o nome indica, o RNA é um ácido nucleico (assim como o DNA) e funciona na regulação, codificação, e decodificação dos genes. O RNA é sintetizado a partir do DNA através do processo de transcrição.
+
+![Estrutura do RNA](https://static.biologianet.com/conteudo/images/a-molecula-rna-uma-fita-simples-mas-pode-assumir-um-arranjo-tridimensional-57f7bf51767e8.jpg)
+
 * Enquanto o DNA possui desoxirribose como açúcar, o açúcar do RNA é uma ribose. No que diz respeito aos nucleotídeos, encontramos adenina, guanina e citosina nos dois ácidos nucleicos, entretanto, a uracila é uma base nitrogenada encontrada apenas no RNA;
 * Ligações das bases nitrogenadas no RNA - (A) Adenina é pareada apenas com a (U) Uracila; (G) Guanina é pareada apenas com a (C) Citosina.
 * O RNA é uma molécula que se apresenta em cadeia simples;
@@ -100,8 +103,8 @@ Macromolécula essencial para várias funções biológicas. Como o nome indica,
 * O RNA ribossômico é responsável por formar os ribossomos, estruturas que funcionam como aparelhos da síntese proteica.
 * O RNA transportador é responsável por carregar os aminoácidos adequados para a realização da síntese de proteínas. Esse RNA apresenta-se com quatro alças, por isso, a estrutura é conhecida por trevo de quatro folhas. Uma dessas alças é a do anticódon que reconhecerá o códon no mRNA.
 * O RNA mensageiro representa a classe mais heterogênea de RNAs e é aquele que contém informações do DNA para a síntese de proteína. Cada sequência de três bases nitrogenadas, denominada de códons, codifica um aminoácido. No processo de tradução, esses códons são lidos e a proteína é sintetizada.
-* Estrutura de um RNA:
-![Estrutura do RNA](https://static.biologianet.com/conteudo/images/a-molecula-rna-uma-fita-simples-mas-pode-assumir-um-arranjo-tridimensional-57f7bf51767e8.jpg)
+
+
 
 * Transcrição do RNA:
 
@@ -117,10 +120,7 @@ Os lipídeos constituem um grupamento heterogêneo de compostos, incluindo gordu
 #### 1 - Funções dos lipídeos:
 
 ![Funções dos lipideos](https://www.coladaweb.com/wp-content/uploads/2014/12/Metabolismo-de-lipidios.png)
-* Além destas funções, possuem:
-				* Isolante térmico;
-				* Isolante elétrico;
-				* Absorção de impactos, entre outras.
+* Além destas, possuem as funções de: isolante térmico, isolante elétrico, absorção de impactos, entre outras.
 				
 #### 2 - Classificação dos lipídeos:
 Os lipídeos são classificados como simples e complexos.
@@ -137,13 +137,19 @@ São ésteres de ácidos graxos contendo grupamentos além de um álccol e um ou
 * _Fosfolipídeos_: Contém além dos ácidos graxos e um álcool, um resíduo de ácido fosfórico. Frequentemente, eles possuem bases contendo nitrogênio (p. ex., colina) e outros substituintes. Em muitos fosfolipídeos, o álcool é o glicerol (**glicerofosfolipídeos**), mas, nos **esfingofosfolipídeos**, é a esfingosina, a qual contém um grupamento amino.
 
 ![Fosfolipídeo](https://upload.wikimedia.org/wikipedia/commons/d/d2/Phospholipid.png)
+
 Imagem de um fosfolipídeo
 
+
 ![Glicerofosfolipídeo](https://slideplayer.com.br/slide/384453/3/images/28/Glicerofosfolip%C3%ADdio+Fosfolipase+A1+Fosfolipase+A2+Fosfolipase+C+Fosfolipase+D.jpg)
+
 Imagem de um glicerofosfolipídeo
 
+
 ![Esfingofosfolipídeo](https://maestrovirtuale.com/wp-content/uploads/2019/10/esfingomielina.png)
+
 Imagem de um esfingofosfolipídeo
+
 
 * _Glicolipídeos_ (glicosfingolipídeos): lipídeos contendo um ácido graxo, esfingosina e carboidrato.
 * _Outros lipídeos complexos_: lipídeos como sulfolipídeos e aminolipídeos. As lipoproteínas também podem ser classificadas nesta categoria.
@@ -164,8 +170,8 @@ São normalmente formados por átomos de carbono, hidrogênio e oxigênio. Entre
 São classificados de acordo com a quantidade de moléculas
 iguais unidas entre si (polímeros).
 
-![Tabela de classificação dos carboidratos](/home/liak/Unip/1_semestre/Bio_hist_Embriologia/Unid1/tabela_classificacao_carboidratos.png)
-Tabela de classificação dos carboidratos - Brasil escola
+![Tabela de classificação dos carboidratos](https://image.slidesharecdn.com/carboidratosaula2-130216155345-phpapp02/95/carboidratos-aula-2-6-638.jpg?cb=1361030221)
+
 
 ## Tecido:
 É um conjunto de várias células com funções e formatos iguais. Os tecidos do corpo humano são grupos de células com formato e funções parecidas. O principal objetivo dos tecidos do corpo humano é sustentar o corpo. A ciência responsável pelo estudo dos tecidos é a histologia
