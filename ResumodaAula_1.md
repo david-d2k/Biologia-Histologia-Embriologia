@@ -1,4 +1,4 @@
-# Universidade Paulista - 11/02/2022 12:54
+# Universidade Paulista - 11/02/2022 
 # Polo: Juazeiro do Norte
 # Curso: Enfermagem / Primeiro Semestre 
 # Disciplina: Biologia Histologia e Embriologia
@@ -7,10 +7,6 @@
 # 
 # Resumo da Aula 1 - Organização dos seres vivos
 #
-![Organizacao seres vivos](https://i.pinimg.com/564x/fc/c2/8a/fcc28a736b84f42b3347f5d1ca2802ad.jpg)
-
-
-
 
 ## Átomo:
 Unidade básica da matéria, isto é, a menor parcela em que um elemento pode ser dividido sem perder suas propriedades químicas. Os átomos são formados por um núcleo composto por partículas de prótons e nêutrons e por elétrons que orbitam o núcleo, formando a eletrosfera.
@@ -34,7 +30,6 @@ Menor unidade estrutural e funcional básica do ser vivo, sendo considerada a me
 * Ausência de citoesqueleto;
 * Exemplo: Células bacterianas.
 
-![Celula procarionte](https://cdn.kastatic.org/ka-perseus-images/5ad9e6cded3766e1ee34419828a01cb5675ed373.png)
 
 ### Eucarionte
 * Presença de núcleo com membrana;
@@ -44,7 +39,6 @@ Menor unidade estrutural e funcional básica do ser vivo, sendo considerada a me
 * Células vegetais possuem clorofila e cloroplastos;
 * Exemplo: Células animais.
 
-![Celula eucarionte](https://escolaeducacao.com.br/wp-content/uploads/2020/04/celula-eucarioticaanimal.png)
 
 ## Composição química das células:
 
@@ -74,9 +68,6 @@ São moléculas formadas por bases nitrogenadas, fosfato e pentoses.
 #### 1.3 - Pentose
 * Açúcar de cinco carbonos
 
-#### Exemplo de nucleotídeo:
-
-![Nucleotideo](https://static.todamateria.com.br/upload/ba/se/basenitrogenada.jpg)
 
 ### Tipos de ácids nucleicos:
 * Ácido desoxirribonucleico - DNA;
@@ -88,12 +79,12 @@ São moléculas formadas por bases nitrogenadas, fosfato e pentoses.
 * Ligações das bases nitrogenadas no DNA - (A) Adenina é pareada apenas com a (T) Timina; (G) Guanina é pareada apenas com a (C) Citosina.
 * Os nucleotídeos são unidos uns aos outros por ligações denominadas fosfodiéster (grupo fosfato ligando dois açúcares de dois nucleotídeos). Nessas ligações, um grupo fosfato conecta o carbono 3’ de um açúcar ao carbono 5’ do próximo açúcar. Essa junção dos nucleotídeos forma um padrão típico de repetição de unidade de açúcar-fosfato, que forma a cadeia principal. A essa cadeia principal estão ligadas as bases nitrogenadas. 
 
-![Estrutura do DNA](https://s3.static.brasilescola.uol.com.br/img/2019/03/estrutura-do-dna.jpg)
+
 
 #### 2 - Ácido ribonucleico - RNA
 Macromolécula essencial para várias funções biológicas. Como o nome indica, o RNA é um ácido nucleico (assim como o DNA) e funciona na regulação, codificação, e decodificação dos genes. O RNA é sintetizado a partir do DNA através do processo de transcrição.
 
-![Estrutura do RNA](https://static.biologianet.com/conteudo/images/a-molecula-rna-uma-fita-simples-mas-pode-assumir-um-arranjo-tridimensional-57f7bf51767e8.jpg)
+
 
 * Enquanto o DNA possui desoxirribose como açúcar, o açúcar do RNA é uma ribose. No que diz respeito aos nucleotídeos, encontramos adenina, guanina e citosina nos dois ácidos nucleicos, entretanto, a uracila é uma base nitrogenada encontrada apenas no RNA;
 * Ligações das bases nitrogenadas no RNA - (A) Adenina é pareada apenas com a (U) Uracila; (G) Guanina é pareada apenas com a (C) Citosina.
@@ -104,11 +95,6 @@ Macromolécula essencial para várias funções biológicas. Como o nome indica,
 * O RNA transportador é responsável por carregar os aminoácidos adequados para a realização da síntese de proteínas. Esse RNA apresenta-se com quatro alças, por isso, a estrutura é conhecida por trevo de quatro folhas. Uma dessas alças é a do anticódon que reconhecerá o códon no mRNA.
 * O RNA mensageiro representa a classe mais heterogênea de RNAs e é aquele que contém informações do DNA para a síntese de proteína. Cada sequência de três bases nitrogenadas, denominada de códons, codifica um aminoácido. No processo de tradução, esses códons são lidos e a proteína é sintetizada.
 
-
-
-* Transcrição do RNA:
-
-![Transcrição do RNA](https://image.slidesharecdn.com/aula11casdvestduplicacaodna-130516150851-phpapp01/95/aula-11-cidos-nucleicos-dna-e-rna-14-638.jpg?cb=1368717449)
 
 #### 3 - Expressão gênica:
 Processo pelo qual uma informação (contida em um gene) é transmitida na forma de um mRNA.
