@@ -11,6 +11,11 @@
 # <spam style="color:blue">Referências:</spam>
 - Harper Bioquímica Ilustrada - Trigésima primera edición
 - Fundamentos da Biologia Celular - Quarta edição
+- Internet:(https://www.coladaweb.com/wp-content/uploads/2014/12/Metabolismo-de-lipidios.png)
+- Internet:(https://upload.wikimedia.org/wikipedia/commons/d/d2/Phospholipid.png)
+- Internet:(https://slideplayer.com.br/slide/384453/3/images/28/Glicerofosfolip%C3%ADdio+Fosfolipase+A1+Fosfolipase+A2+Fosfolipase+C+Fosfolipase+D.jpg)
+- Internet:(https://maestrovirtuale.com/wp-content/uploads/2019/10/esfingomielina.png)
+- Internet:(https://image.slidesharecdn.com/carboidratosaula2-130216155345-phpapp02/95/carboidratos-aula-2-6-638.jpg?cb=1361030221)
 
 
 # <spam style="color:blue">Tecnologias utilizadas:</spam>
