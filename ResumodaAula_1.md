@@ -8,6 +8,17 @@
 # Resumo da Aula 1 - Organização dos seres vivos
 #
 
+# <spam style="color:blue">Referências:</spam>
+- Harper Bioquímica Ilustrada - Trigésima primera edición
+- Fundamentos da Biologia Celular - Quarta edição
+
+
+# <spam style="color:blue">Tecnologias utilizadas:</spam>
+
+- Kali Linux 2022.1 (https://kal.org/)
+- Joplin (https://www.joplinapp.org/)
+
+
 ## Átomo:
 Unidade básica da matéria, isto é, a menor parcela em que um elemento pode ser dividido sem perder suas propriedades químicas. Os átomos são formados por um núcleo composto por partículas de prótons e nêutrons e por elétrons que orbitam o núcleo, formando a eletrosfera.
 
