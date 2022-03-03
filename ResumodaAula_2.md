@@ -1,3 +1,4 @@
+
 # Universidade Paulista - 24/02/2022 
 # Polo: Juazeiro do Norte
 # Curso: Enfermagem / Primeiro Semestre 
@@ -5,7 +6,7 @@
 # Professor(a): Barbara
 # Aluno: David Neves
 # 
-# Resumo da Aula 2 e 3 - Célula
+# Resumo da Aula 2 e 3 - Célula 
 #
 
 # Célula:
@@ -134,3 +135,55 @@ Sem a energia produzida por esses processos, a célula será incapaz de sobreviv
 O mau funcionamento das mitocôndrias em consequência da ausência ou deficiência das enzimas da cadeia de transporte de elétrons ou na bomba ATP sintase provoca distúrbios degenerativos de origem muscular e nervosa, chamados de doenças mitocondriais.
 
 ## 1.8 - Citoesqueleto celular:
+
+Rede de filamentos proteicos que funcionam como de fossem o alicerce de uma casa. Dentre suas atrinui;'oes podemos citar:
+
+* Forma celular - a manutenção da forma celular e a grande variedades de morfologias celulares existentes são possíveis graças à forma como as proteínas do citoesqueleto são distribuídas;
+
+* Movimentos celulares - como os que ocorrem durante a fagocitose e na contração muscular;
+
+* Movimentos intracelulares - a manutenção da posição das organelas, bem como o trânsito de vesículas pelo citoplasma e o processo de separação dos cromossomos durante a divisão celular.
+
+Para que todas essas funções possão ser realizadas, o citoesqueleto é formado por três classes de filamentos proteicos: ***microtúbulos***, ***filamentos intermediários*** e ***filamentos de actina***, que formam o citoesqueleto em si. Além disso, existem as ***proteínas acessórias*** que controlam o ***surgimento dos filamentos***, a ***interação entre eles*** e o ***movimento dessa rede***.
+A interação entre os diversos grupos de proteínas que formam o citoesqueleto permite que a célula se adapte rapidamente conforme a necessidade.
+
+![Citoesqueleto - Mapas mentais / Biologia](https://i.pinimg.com/736x/e7/e1/e9/e7e1e97b89279ffc122cdc1d4bdfa73e.jpg)
+
+
+## 2 - Transporte através da membrana:
+
+Uma das principais características da membrana é a sua permeabilidade seletiva, ou seja, a identificação e a seleção de quais substâncias podem entrar ou sair da célula. Essa movimentação pode ocorrer de forma ***passiva*** ou ***ativa***.
+
+### 2.1 - Transporte passivo:
+
+O transporte passivo sempre vai ocorrer ***sem a necessidade de gasto energético*** porque acontece a favor do gradiente de concentração, ou seja, as moléculas fluem do lado ***mais concentrado em direção para o lado menos concentrado***. São exemplos de transporte passivo: a ***difusão simples***, a ***difusão facilitada*** e a ***osmose***.
+
+### 2.1.1 - Difusão simples:
+
+Também chamada de difusão passiva, ocorre quando temos uma molécula ***pequena e sem carga***, por exemplo, o ***oxigênio***, o ***dióxido de carbono*** a ***água*** e o ***nitrogênio***. As características da molécula transportada são necessárias devido ao fato de a difusão simples ocorrer através das moléculas de ***lipídios*** da membrana. A presença de uma carga positiva ou negativa impediria o fluxo da molécula porque os ***fosfolipídios***, os ***esfingolipídios*** e os ***glicolipídios*** podem apresentar cargas que atrairiam ou repeliriam as moléculas a serem transportadas diretamente através da bicamada.
+Compostos lipossolúveis, como o ***etanol***, a ***uréia***, os ***ácidos graxos***, os ***esteroides*** e o ***glicerol***, também são capazes de atravessar a membrana por difusão simples.
+
+### 2.1.2 - Difusão facilitada:
+
+Se diferencia da difusão simples por apresentar uma ***proteína integral*** que permite a comunicação entre os meios intra e extracelular. Na difusão facilitada, a molécula a ser transportada chega até seu destino atarvessando a proteína integral denominda ***proteína transportadora***, que pode ser de dois tipos: do tipo ***canal iônico***, ou do tipo ***permease***.
+Na difusão facilitada ocorre o transporte de moléculas grandes como: ***glicose***, ***aminoácidos***; e moléculas pequenas ***carregadas*** como os ***íons***.
+Uma grande diferença entre os canais iônicos e as permeases está na ***mudança de conformação***. Enquanto os canais iônicos mamtêm sua estrutura ao longo de todo o processo de difusão do íon, a ligação do soluto na permease leva à mudança de conformação da proteína para permitir a passagem do soluto. Uma permease pode transportar apenas um soluto por vez (***monotransporte***), dois solutos diferentes no ***mesmo sentido*** (***cotransporte***), dois solutos diferentes em sentidos ***opostos*** (***antiporte ou contratransporte***).
+
+### 2.1.3 - Osmose:
+
+Aqui diferentemente das outras duas anteriores, temos as moléculas de ***solvente***, ou seja, a parte líquida, atravessando a mambrana. Uma vez que no corpo humano a água seja o solvente, não será errado dizer que a osmose é a passagem de água através da membrana. A pressão necessária para ***impedir*** a passagem de água pela membrana plasmática é denominada ***pressão osmótica***.
+
+***OBS***:
+A água também pode atravessar a membrana por difusão simples ou facilitada através de uma proteína chamada ***aquaporina***.
+
+Na osmose, a água flui do meio menos concentrado para o meio mais concentrado. o equilíbrio é atingido quando os dois meios possuírem a mesma concentração. No organismo humano, consideramos como solução isotônica o ***cloreto de sódio a 0,9%*** porque, nessa concentração, a quantidade de solvente que entra na célula é equivalente a que sai, mantendo as características estruturais. Quando uma cécula for colocada em concentrações ***superiores*** a 0,9%, ela estará em meio ***hipertônico*** e a água tenderá a ***sair***, fazendo com que a célula fique com aspecto ***enrugado***; essa situação é chamada de ***crenação***. Por outro lado, em concentrações ***inferiores*** a 0,9%, a célula será submetida a uma solução ***hipotônica***, para que o equilíbrio volte a ser atingido, será necessária a ***entrada de água*** na célula, podendo ocasionar a sua ***lise*** (***Lise celular - quebra, partição, estouro da célula***).
+
+![Osmose nas hemáceas - Cola web](https://www.coladaweb.com/wp-content/uploads/2014/12/20200714-osmose3.png)
+
+
+### 2.2 - Transporte ativo:
+
+Esse tipo de transporte intramembranar ocorre com gasto de energia (***Adenosina trifosfato - ATP***), pois as substâncias são transportadas ***contra*** o gradiente de concentração. ***Obrigatoriamente***, serão mediadas por ***proteínas transportadoras*** - ***Permeases, comumente chamadas de 'bombas', específicas para cada tipo de soluto a ser transportado*** - e envolve mudança de conformação da proteína. O transporte de substâncias tanto pode ocorrer do meio extracelular para o meio intracelular, como, do meio intracelular para o meio extracelular.
+
+![Transporte ativo da célula - Cap 02 - Estrutura celular. Biologia I Prof. João - PDF Free Download](https://docplayer.com.br/docs-images/41/22565324/images/page_7.jpg)
+
