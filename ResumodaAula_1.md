@@ -20,7 +20,7 @@
 
 # <spam style="color:blue">Tecnologias utilizadas:</spam>
 
-- Kali Linux 2022.1 (https://kal.org/)
+- Kali Linux 2022.1 (https://kali.org/)
 - Joplin (https://www.joplinapp.org/)
 
 
