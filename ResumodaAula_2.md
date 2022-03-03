@@ -7,6 +7,19 @@
 # Aluno: David Neves
 # 
 # Resumo da Aula 2 e 3 - Célula 
+
+# <spam style="color:blue">Referências:</spam>
+- Picole, Maria Eleonora Feracin da Silva - Biologia, Histologia, Embriologia - São Paulo: Editora Sol, 2021
+- Internet: Cola web (https://www.coladaweb.com/wp-content/uploads/2014/12/20200714-osmose3.png)
+- Internet: Mapas mentais / Biologia (https://i.pinimg.com/736x/e7/e1/e9/e7e1e97b89279ffc122cdc1d4bdfa73e.jpg)
+- Internet: Transporte ativo da célula - Cap 02 - Estrutura celular. Biologia I Prof. João - PDF Free Download (https://docplayer.com.br/docs-images/41/22565324/images/page_7.jpg)
+
+
+# <spam style="color:blue">Tecnologias utilizadas:</spam>
+
+- Fedora 35 (https://getfedora.org)
+- JupyterLab (https://jupyter.org/)
+
 #
 
 # Célula:
