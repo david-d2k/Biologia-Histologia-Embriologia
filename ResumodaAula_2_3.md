@@ -107,7 +107,7 @@ Os ribossomos são produzidos pelo nucléolo, um componente nuclear, e são form
 ## 1.4 - Retículo endoplasmático:
 É uma rede de membranas que aprasenta uma conformação semelhante a um grupo de túbulos achatados. Eles se iniciam como um prolongamento do envoltório nuclear e se estendem por todo citoplasma. Na região próxima ao núcleo, há uma série de ribossomos associados externamente, recebendo o nome de retículo endoplasmático rugoso; à medida que a estrutura se afasta do envoltório nuclear, os ribossomos vão diminuindo e a região que fica desprovida de ribossomos associados passa a se chamar retículo endoplasmático liso.
 
-* Retículo endoplasmático rugoso (RER) - Tem sua função associada à síntese e modificação de proteínas que serão inseridas em outras organelas, na membrana plasmática, ou que serão secretadas. é comum que o RER sempre esteja próximo ao ***complexo de Golgi***, uma vez que essas duas organelas atuam em conjunto no processo de modificação e endereçamento das proteínas.
+* Retículo endoplasmático rugoso (RER) - Tem sua função associada à síntese e modificação de proteínas que serão inseridas em outras organelas, na membrana plasmática, ou que serão secretadas.  comum que o RER sempre esteja próximo ao ***complexo de Golgi***, uma vez que essas duas organelas atuam em conjunto no processo de modificação e endereçamento das proteínas.
 * Retículo endoplasmático liso (REL) - Tem sua função associada à síntese de lipídios e também à modificação de algumas proteínas.
 
 ***OBS***:
