@@ -133,7 +133,10 @@ A fusão ***endossomo-lisossomo*** permite a mistura das enzimas ácidas com as 
 ***OBS***:
 A ausência ou a deficiência de enzimas lisossomais pode provocar as chamadas ***doenças lisossômicas de depósito***, como a doença de ***Tay Sachs*** e as ***mucopolissacaridoses***. Essas situações de alterações genéticas impedem a atuação das enzimas e, consequentemente, várias substâncias não são degradadas e / ou recicladas, podendo causar diversas alterações no organismo.
 
-## 1.7 - Mitocôndria:
+## 1.7 - Peroxissomos:
+Os peroxissomos são organelas membranosas presentes no citoplasma das células vegetais e animais, formando vesículas arredondadas, cuja função está relacionada ao armazenamento de enzimas que catalisam o peróxido de hidrogênio (água oxigenada - H2O2), uma substância tóxica que necessita ser degradada.
+
+## 1.8 - Mitocôndria:
 A mitocôndria é a organela mais complexa de todas. É dotada de uma organização única e a única a possuir seu própio DNA. A forma como elas estão organizadas relaciona-se diretamente com as funções desempenhadas por ela dentro das células. A mitocôndria é dotada de uma membrana externa dupla e uma membrana interna simples que se expande em direção ao seu interior, formando prolongamentos conhecidos como ***cristas mitocondriais***. O espaço delimitado pelas membranas externas e internas é preenchido por um fluido conhecido como ***matriz mitocondrial***. Nessa matriz são encontradas sequências circulares de DNA, o chamado ***DNA mitocondrial***, e ribossomos livres.
 
 ***OBS***:
@@ -147,7 +150,7 @@ Sem a energia produzida por esses processos, a célula será incapaz de sobreviv
 ***OBS***:
 O mau funcionamento das mitocôndrias em consequência da ausência ou deficiência das enzimas da cadeia de transporte de elétrons ou na bomba ATP sintase provoca distúrbios degenerativos de origem muscular e nervosa, chamados de doenças mitocondriais.
 
-## 1.8 - Citoesqueleto celular:
+## 1.9 - Citoesqueleto celular:
 
 Rede de filamentos proteicos que funcionam como de fossem o alicerce de uma casa. Dentre suas atrinui;'oes podemos citar:
 
@@ -159,6 +162,10 @@ Rede de filamentos proteicos que funcionam como de fossem o alicerce de uma casa
 
 Para que todas essas funções possão ser realizadas, o citoesqueleto é formado por três classes de filamentos proteicos: ***microtúbulos***, ***filamentos intermediários*** e ***filamentos de actina***, que formam o citoesqueleto em si. Além disso, existem as ***proteínas acessórias*** que controlam o ***surgimento dos filamentos***, a ***interação entre eles*** e o ***movimento dessa rede***.
 A interação entre os diversos grupos de proteínas que formam o citoesqueleto permite que a célula se adapte rapidamente conforme a necessidade.
+
+***OBS***:
+* CENTRÍOLOS - São formados por nove trincas de microtúbulos distribuídos de forma octogonal. São mais abundantes próximos ao núcleo e, ao seu redor, são encontrados vários monômeros de tubulina. Embora sempre pensemos nos centríolos como estrutura responsável pelo alinhamento dos cromossomos durante os eventos
+de mitose e meiose, essa estrutura também é responsável por iniciar a formação dos cílios e dos flagelos. Os centríolos vão fornecer o corpúsculo basal, base em cima da qual serão construídos os cílios e os flagelos através da deposição de novas unidades de tubulina, que empurrarão a membrana plasmática para fora.
 
 ![Citoesqueleto - Mapas mentais / Biologia](https://i.pinimg.com/736x/e7/e1/e9/e7e1e97b89279ffc122cdc1d4bdfa73e.jpg)
 
