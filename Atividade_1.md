@@ -16,6 +16,12 @@
 - Internet: (https://www.infoescola.com/citologia/)
 - Internet: (https://www.todamateria.com.br/)
 - Internet: (https://cdn.kastatic.org/ka-perseus-images/73c131253d1d7a76b17b789d08b31a5539f6feba.png)
+
+# <spam style="color:blue">Tecnologias utilizadas:</spam>
+
+- Fedora 35 (https://getfedora.org)
+- JupyterLab (https://jupyter.org/)
+
 #
 
 # 01 - Quais são os principais componentes químicos da célula?
