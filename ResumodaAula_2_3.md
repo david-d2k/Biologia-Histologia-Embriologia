@@ -39,6 +39,7 @@
  * Retículo endoplasmático;
  * Complexo de Golgi;
  * Lisossomos;
+ * Peroxissomos;
  * Mitocôndria;
  * Citoesqueleto celular.
 
