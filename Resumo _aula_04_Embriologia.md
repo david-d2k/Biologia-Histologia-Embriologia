@@ -24,7 +24,7 @@
 
 
 # 1 - Núcleo:
-   O núcleo é um elemento exclusivo das células eucariontes e deve estar presente em, pelo menos, uma fase do desnvolvimento da célula. É no núcleo que a maior parte da informação genética se encontra na forma de cromossomos.
+O núcleo é um elemento exclusivo das células eucariontes e deve estar presente em, pelo menos, uma fase do desnvolvimento da célula. É no núcleo que a maior parte da informação genética se encontra na forma de cromossomos.
 Também é do núcleo que sai todas as diretrizes de comando do metabolismo celular, através das informações que serão transcritas do DNA, conforme, a necessidade da célula.
 
 Quando uma célula não está em divisão, dizemos que seu núcleo é ***interfásico***. O DNA estará organizado na forma de ***cromatina***, que fica mergulhada em uma substância gelatinosa chamada de ***nucleoplasma*** (***Citoplasma do núcleo***) e separada do resto do citoplasma pelo ***envoltório nuclear***. Também é possível observar uma ou mais massas esféricas chamadas de ***nucléolos***.
