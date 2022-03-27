@@ -36,12 +36,16 @@ A posição do núcleo da célula varia conforme a sua função. Células secret
      
 
 ## 1.1 - Elementos nucleares:
-   São elementos que compõem o núcleo celular.
+São elementos que compõem o núcleo celular.
     
 ### 1.1.1 - Envoltório Nuclear
-   Também conhecida como ***carioteca***, é uma membrana que delimita o material genético dos outros elementos citoplasmáticos. Sua principal função, está em: controlar o acesso ao DNA de toda e qualquer substância que queira entrar em contato com ele; ou seja, o envoltório nuclear exerce um papel fundamental como mediador do fluxo de substâncias entre o interior do núcleo e o citoplasma.
-    A carioteca é formada por uma ***bicamada dupla e descontínua*** de natureza ***lipoprotéica***. A membrana interna da bicamada fica ligada ao nucleoplasma por meio de ***proteínas filamentosas*** (***lâmina nuclear***). Essas, atuam como âncoras entre a membrana interna do envoltório e a cromatina, e também dão estabilidade e forma ao núcleo. Já a membrana externa, fica em contato direto com o citoplasma e é rica em ribossomos. Projessões dessa membrana originam o retículo endoplasmático rugoso.
-    Como dito antes, o envoltório nuclear é ***descontínuo***. Nesses pontos, observa-se uma fusão entre a membrana externa e interna formando um poro. Ao longo de todo o envoltório, existe essas várias regiões de poro. Essas regiões são ocupadas por um grupo de proteínas denominadas de ***nucleoporina (Nup)***; o conjunto de ***nucleoporinas*** que preenche cada um desses poros recebe o nome de ***complexo de poro***. A função desse complexo e das proteínas a ele associadas está relacionada ao controle do fluxo de moléculas. RNA, nucleotídeos, proteínas, carboidratos, fosfolipídeos e íons são exemplos de substâncias que precisam entrar e sair do núcleo. Esse transporte, pode acontecer de forma ***passiva*** e/ou ***ativa***, dependendo do tamanho, das características químicas e do gradiente de concentração da substância.
+Também conhecida como ***carioteca***, é uma membrana que delimita o material genético dos outros elementos citoplasmáticos. Sua principal função, está em: controlar o acesso ao DNA de toda e qualquer substância que queira entrar em contato com ele; ou seja, o envoltório nuclear exerce um papel fundamental como mediador do fluxo de substâncias entre o interior do núcleo e o citoplasma.
+
+A carioteca é formada por uma ***bicamada dupla e descontínua*** de natureza ***lipoprotéica***. A membrana interna da bicamada fica ligada ao nucleoplasma por meio de ***proteínas filamentosas*** (***lâmina nuclear***). Essas, atuam como âncoras entre a membrana interna do envoltório e a cromatina, e também dão estabilidade e forma ao núcleo. Já a membrana externa, fica em contato direto com o citoplasma e é rica em ribossomos. Projessões dessa membrana originam o retículo endoplasmático rugoso.
+
+Como dito antes, o envoltório nuclear é ***descontínuo***. Nesses pontos, observa-se uma fusão entre a membrana externa e interna formando um poro. Ao longo de todo o envoltório, existe essas várias regiões de poro. Essas regiões são ocupadas por um grupo de proteínas denominadas de ***nucleoporina (Nup)***; o conjunto de ***nucleoporinas*** que preenche cada um desses poros recebe o nome de ***complexo de poro***. A função desse complexo e das proteínas a ele associadas está relacionada ao controle do fluxo de moléculas. RNA, nucleotídeos, proteínas, carboidratos, fosfolipídeos e íons são exemplos de substâncias que precisam entrar e sair do núcleo. Esse transporte, pode acontecer de forma ***passiva*** e/ou ***ativa***, dependendo do tamanho, das características químicas e do gradiente de concentração da substância.
+
+### Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
     
 ![Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)
 
