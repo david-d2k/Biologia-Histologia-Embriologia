@@ -47,9 +47,7 @@ Como dito antes, o envoltório nuclear é ***descontínuo***. Nesses pontos, obs
 
 
     
-![Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)
-
-Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
+![Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
 
 
 ![Figura 1.1.1.2 - Representação esquemática do poro / gracieteoliveira.pbworks.com](http://gracieteoliveira.pbworks.com/f/1299802406/poro%20nuclear.png)
