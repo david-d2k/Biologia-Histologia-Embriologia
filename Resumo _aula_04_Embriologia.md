@@ -45,9 +45,11 @@ A carioteca é formada por uma ***bicamada dupla e descontínua*** de natureza *
 
 Como dito antes, o envoltório nuclear é ***descontínuo***. Nesses pontos, observa-se uma fusão entre a membrana externa e interna formando um poro. Ao longo de todo o envoltório, existe essas várias regiões de poro. Essas regiões são ocupadas por um grupo de proteínas denominadas de ***nucleoporina (Nup)***; o conjunto de ***nucleoporinas*** que preenche cada um desses poros recebe o nome de ***complexo de poro***. A função desse complexo e das proteínas a ele associadas está relacionada ao controle do fluxo de moléculas. RNA, nucleotídeos, proteínas, carboidratos, fosfolipídeos e íons são exemplos de substâncias que precisam entrar e sair do núcleo. Esse transporte, pode acontecer de forma ***passiva*** e/ou ***ativa***, dependendo do tamanho, das características químicas e do gradiente de concentração da substância.
 
-### Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
+
     
 ![Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)
+
+## Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
 
 
 ![Figura 1.1.1.2 - Representação esquemática do poro / gracieteoliveira.pbworks.com](http://gracieteoliveira.pbworks.com/f/1299802406/poro%20nuclear.png)
