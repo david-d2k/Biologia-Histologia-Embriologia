@@ -10,14 +10,17 @@
 
 # <spam style="color:blue">Referências:</spam>
 - Picole, Maria Eleonora Feracin da Silva - Biologia, Histologia, Embriologia - São Paulo: Editora Sol, 2021
-- Internet: Cola web (https://www.coladaweb.com/wp-content/uploads/2014/12/20200714-osmose3.png)
-- Internet: Mapas mentais / Biologia (https://i.pinimg.com/736x/e7/e1/e9/e7e1e97b89279ffc122cdc1d4bdfa73e.jpg)
-- Internet: Transporte ativo da célula - Cap 02 - Estrutura celular. Biologia I Prof. João - PDF Free Download (https://docplayer.com.br/docs-images/41/22565324/images/page_7.jpg)
+- Internet: ediciplinas.usp.br (https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)
+- Internet: gracieteoliveira.pbworks.com (http://gracieteoliveira.pbworks.com/f/1299802406/poro%20nuclear.png)
+- Internet: mmegias.webs.uvigo.es (https://mmegias.webs.uvigo.es/5-celulas/imagenes/04-cromatina-o.png)
+- Internet: blogdoenem.com.br (https://blogdoenem.com.br/wp-content/uploads/2018/09/WINWORD_2018-09-06_17-15-42.jpg)
+- Internet: slideplayer.com.br (https://slideplayer.com.br/slide/3079866/11/images/13/Formato+dos+Cromossomos.jpg)
 
 
 # <spam style="color:blue">Tecnologias utilizadas:</spam>
 
-- Fedora 35 (https://getfedora.org)
+- Arch Linux (https://archlinux.org/)
+- Arch Linux GUI (https://archlinuxgui.in/)
 - JupyterLab (https://jupyter.org/)
 
 #
