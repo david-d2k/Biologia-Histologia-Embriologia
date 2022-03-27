@@ -47,11 +47,16 @@ Como dito antes, o envoltório nuclear é ***descontínuo***. Nesses pontos, obs
 
 
     
-![Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
+![Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/4457829/mod_book/chapter/19676/imagens/Semana_8/sem8_fig04.jpg)
+Figura 1.1.1.1 - Organização do núcleo interfásico / ediciplinas.usp.br
 
+#
 
 ![Figura 1.1.1.2 - Representação esquemática do poro / gracieteoliveira.pbworks.com](http://gracieteoliveira.pbworks.com/f/1299802406/poro%20nuclear.png)
-        
+Figura 1.1.1.2 - Representação esquemática do poro / gracieteoliveira.pbworks.com
+
+#
+
 ### 1.1.2 - Nucléolo
        Estrutura esférica formada por proteínas e RNA ribossômico responsável pela produção dos ribossomos que ficam livres no citoplasma ou associados ao retículo endoplasmático rugoso.
        Uma vez que os ribossomos são as estruturas responsáveis pela síntese de proteínas, células que possuem alta atividade de síntese protéica possuem nucléolos bem grandes, ao passo que células como os linfócitos e os monócitos, que produzem poucos ribossomos, possuem nucléolos pequenos. Os ribossomos produzidos pelo nucléolo chegam até o citoplasma através do poro nuclear.
