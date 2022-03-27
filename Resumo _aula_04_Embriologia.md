@@ -30,15 +30,16 @@ Também é do núcleo que sai todas as diretrizes de comando do metabolismo celu
 Quando uma célula não está em divisão, dizemos que seu núcleo é ***interfásico***. O DNA estará organizado na forma de ***cromatina***, que fica mergulhada em uma substância gelatinosa chamada de ***nucleoplasma*** (***Citoplasma do núcleo***) e separada do resto do citoplasma pelo ***envoltório nuclear***. Também é possível observar uma ou mais massas esféricas chamadas de ***nucléolos***.
     
  ***OBS***:
-     A maioria das células são ***mononucleadas***, mas existem células, como as do ***tecido muscular estriado esquelético***, que são ***polinucleadas***, ou as ***hemáceas***, que, quando maduras, perdem seu núcleo.
-     A posição do núcleo da célula varia conforme a sua função. Células secretoras tendem a ter um núcleo basal, enquanto as células do revestimento possuem um núcleo mais centralizado.
+A maioria das células são ***mononucleadas***, mas existem células, como as do ***tecido muscular estriado esquelético***, que são ***polinucleadas***, ou as ***hemáceas***, que, quando maduras, perdem seu núcleo.
+
+A posição do núcleo da célula varia conforme a sua função. Células secretoras tendem a ter um núcleo basal, enquanto as células do revestimento possuem um núcleo mais centralizado.
      
 
 ## 1.1 - Elementos nucleares:
-    São elementos que compõem o núcleo celular.
+   São elementos que compõem o núcleo celular.
     
 ### 1.1.1 - Envoltório Nuclear
-    Também conhecida como ***carioteca***, é uma membrana que delimita o material genético dos outros elementos citoplasmáticos. Sua principal função, está em: controlar o acesso ao DNA de toda e qualquer substância que queira entrar em contato com ele; ou seja, o envoltório nuclear exerce um papel fundamental como mediador do fluxo de substâncias entre o interior do núcleo e o citoplasma.
+   Também conhecida como ***carioteca***, é uma membrana que delimita o material genético dos outros elementos citoplasmáticos. Sua principal função, está em: controlar o acesso ao DNA de toda e qualquer substância que queira entrar em contato com ele; ou seja, o envoltório nuclear exerce um papel fundamental como mediador do fluxo de substâncias entre o interior do núcleo e o citoplasma.
     A carioteca é formada por uma ***bicamada dupla e descontínua*** de natureza ***lipoprotéica***. A membrana interna da bicamada fica ligada ao nucleoplasma por meio de ***proteínas filamentosas*** (***lâmina nuclear***). Essas, atuam como âncoras entre a membrana interna do envoltório e a cromatina, e também dão estabilidade e forma ao núcleo. Já a membrana externa, fica em contato direto com o citoplasma e é rica em ribossomos. Projessões dessa membrana originam o retículo endoplasmático rugoso.
     Como dito antes, o envoltório nuclear é ***descontínuo***. Nesses pontos, observa-se uma fusão entre a membrana externa e interna formando um poro. Ao longo de todo o envoltório, existe essas várias regiões de poro. Essas regiões são ocupadas por um grupo de proteínas denominadas de ***nucleoporina (Nup)***; o conjunto de ***nucleoporinas*** que preenche cada um desses poros recebe o nome de ***complexo de poro***. A função desse complexo e das proteínas a ele associadas está relacionada ao controle do fluxo de moléculas. RNA, nucleotídeos, proteínas, carboidratos, fosfolipídeos e íons são exemplos de substâncias que precisam entrar e sair do núcleo. Esse transporte, pode acontecer de forma ***passiva*** e/ou ***ativa***, dependendo do tamanho, das características químicas e do gradiente de concentração da substância.
     
