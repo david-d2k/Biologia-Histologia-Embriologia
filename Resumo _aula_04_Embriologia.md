@@ -6,7 +6,7 @@
 # Professor(a): Barbara
 # Aluno: David Neves
 # 
-# Resumo da Aula 4 - Núcleo e Ciclo Celular e Expressão Gênica 
+# Resumo da Aula 4 - Núcleo, Ciclo Celular e expressão gênica 
 
 # <spam style="color:blue">Referências:</spam>
 - Picole, Maria Eleonora Feracin da Silva - Biologia, Histologia, Embriologia - São Paulo: Editora Sol, 2021
